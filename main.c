@@ -19,4 +19,4 @@ main() {
     for (int j = 0; j < q; ++j) {
         printf("Dia chi Gia tri thu %i la: %d\n", j + 1, px + j);
     }
-}
+} 
